@@ -1,3 +1,6 @@
 html {
-	background-image: url("img.webp")_
+	background-image: url("img.webp");
+	background-repet: repeat;
+	background-attachment: fixed;
+	background-site: 100%
 }
