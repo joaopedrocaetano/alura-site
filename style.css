@@ -1,6 +1,4 @@
 html {
-	background-image: url("img.webp");
-	background-repet: repeat;
-	background-attachment: fixed;
-	background-size: 100%
+	width: 1357;
+	margin: -11px 0 -8px -8px; 
 }
