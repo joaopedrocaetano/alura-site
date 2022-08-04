@@ -2,5 +2,5 @@ html {
 	background-image: url("img.webp");
 	background-repet: repeat;
 	background-attachment: fixed;
-	background-site: 100%
+	background-size: 100%
 }
