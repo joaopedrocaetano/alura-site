@@ -1,4 +1,5 @@
 html {
+	background: #EEEEEE;
 }
 .caixa {
 	position: relative;
@@ -59,6 +60,7 @@ h1 {
 	box-sizing: border-box;
 	border-box; border: 2px solid #000000;
 	border-radius: 10px;
+	background: #FFFFFF;
 }
 
 .produtos li:hover {
@@ -87,6 +89,28 @@ h1 {
 	font-weight: bold;
 	margin: 10px 0 0;
 	margin-top: 10px;
+}
+
+.mapa {
+	padding: 3em 0;
+	margin: 0 -45px -10px  ;
+}
+
+.mapa-conteudo{
+	width: 940px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
 }
 
 footer {
